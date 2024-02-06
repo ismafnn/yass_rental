@@ -1,0 +1,6 @@
+@media print {
+    .to-print {
+      width: 5000px;
+      height: 400px;
+    }
+  }
