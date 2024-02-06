@@ -1,0 +1,1 @@
+# yass_rental
